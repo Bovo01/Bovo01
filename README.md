@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Bovo01
+- 👋 Hi, I’m Pietro Bovolenta
 - 👀 I’m interested in coding Java, HTML & Javascript, node.js, TS, C++, C# and other languages
-- 🌱 I’d like to learn C#, but not only...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Bovo01/Bovo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
